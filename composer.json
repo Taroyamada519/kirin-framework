@@ -1,0 +1,13 @@
+{
+    "name": "user0126/kirin-framework",
+    "description": "Kirin - An Elegant PHP REST API Framework",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
